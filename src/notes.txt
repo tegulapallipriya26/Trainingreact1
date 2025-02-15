@@ -1,0 +1,15 @@
+C - create - POST()
+R - read   - GET()
+U - update - PUT()
+D - delete - DELETE()
+
+https: - hyper text transfer protocol secured 
+https , smtp , ftp , tcp , ip etc....
+
+- json server 
+-npm install json-server -g
+
+- axios library to fetch the data.
+- npm install axios
+
+json-server --watch users.json --port=8000
